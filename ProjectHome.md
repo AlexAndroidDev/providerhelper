@@ -1,0 +1,1 @@
+Utility classes which automate the tasks of reading rows from an Android Content Provider, extracting fields, and using them to load corresponding fields in your own objects.
